@@ -1,1 +1,1 @@
-This is a simple tool to help prepare for a AI Engineering Interview.
+This is a simple tool to help prepare for an AI Engineering Interview.
